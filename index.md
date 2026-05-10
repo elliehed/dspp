@@ -21,3 +21,5 @@ My work often focuses on analysing and interpreting complex security and operati
 ### Flight Path Analysis – Airspace Restrictions
 Analysis of commercial flight data examining changes to Europe–Asia routes following airspace restrictions introduced in 2022.  
 **Tools:** Python, pandas, K-means clustering, GeoPandas
+[View project →](projects/flight-analysis)
+``
