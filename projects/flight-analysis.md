@@ -36,8 +36,8 @@ The dataset covers approximately 15 million flight records between January 2022 
 ---
 
 ## Example outputs
-
-*(Add one or two visuals here — see next step)*
+![Mapped Europe–Asia flight routes](../images/4 Cluster Scatter.png)
+![Mapped Europe–Asia flight routes](../images/Flight Routes.png)
 
 ---
 
