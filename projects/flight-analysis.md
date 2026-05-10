@@ -5,7 +5,7 @@ title: Flight Path Analysis
 
 <div style="display:flex; gap:24px; align-items:flex-start; margin-bottom:40px;">
 
-  <img src="../images/plane.png"
+  <img src="../images/Plane.png"
        alt="Plane"
        style="width:260px; border-radius:6px;" />
 
