@@ -6,7 +6,7 @@ title: Flight Path Analysis
 <div style="display:flex; gap:24px; align-items:flex-start; margin-bottom:40px;">
 
   <img src="../images/plane.png"
-       alt="Commercial flight route visualisation"
+       alt="Plane"
        style="width:260px; border-radius:6px;" />
 
   <div>
