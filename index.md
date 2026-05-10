@@ -1,0 +1,26 @@
+
+---
+layout: default
+title: Data Science Portfolio
+---
+
+# Data Science Portfolio
+
+## About me
+I am a Cyber Risk Data Specialist with an academic background in mathematics. I hold an MSci in Mathematics with Theoretical Physics and am currently undertaking a BSc in Data Science alongside full‑time work to strengthen my data science and applied analytics skills.
+
+My work often focuses on analysing and interpreting complex security and operational datasets, developing repeatable data pipelines, and producing clear, decision‑focused visualisations. This portfolio showcases selected academic and professional projects completed as part of the Data Science Professional Practice module.
+
+## Skills
+- Data analysis, ETL pipelines, and feature engineering  
+- Exploratory analysis and clustering (K-means)  
+- Data visualisation and dashboard design  
+- Python and Excel  
+- Cyber risk and security data ana
+
+
+
+## Projects
+### Flight Path Analysis – Airspace Restrictions
+Analysis of commercial flight data examining changes to Europe–Asia routes following airspace restrictions introduced in 2022.  
+**Tools:** Python, pandas, K-means clustering, GeoPandas
