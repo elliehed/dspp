@@ -5,9 +5,6 @@ I am a Cyber Risk Data Specialist with an academic background in mathematics. I 
 
 My work often focuses on analysing and interpreting complex security and operational datasets, developing repeatable data pipelines, and producing clear, decision‑focused visualisations. This portfolio showcases selected academic and professional projects completed as part of the Data Science Professional Practice module.
 
-[Adding a Theme](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll#supported-themes)
-
-
 ### Skills
 Data analysis, ETL pipelines, and feature engineering
 Exploratory analysis and clustering (K‑means)
@@ -15,7 +12,6 @@ Data visualisation and dashboard design
 Python (intermediate)
 Excel (Power Query, PivotTables, analytical models)
 Cyber risk and security data analysis
-
 
 ### Education
 Kings College London - MSci Mathematics and Theoretical Physics
