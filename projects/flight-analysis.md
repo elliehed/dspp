@@ -55,6 +55,13 @@ The analysis identified clear structural changes to Europe–Asia flight routes 
 
 ---
 
+## Further work
+
+- Extend the analysis to assess delay patterns for rerouted flights
+- Compare results with additional geopolitical disruption scenarios
+
+---
+
 ## Notes
 
 This project was completed for academic purposes using publicly available data.
