@@ -1,0 +1,18 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* Reduce Cayman header height */
+.page-header {
+  padding: 3rem 1.5rem;
+}
+
+/* Subtle separator between header and content */
+.main-content {
+  border-top: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+/* Improve section spacing */
+.main-content h2 {
+  margin-top: 2.5rem;
+}
