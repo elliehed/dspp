@@ -1,7 +1,18 @@
+<div style="display:flex; align-items:center; gap:20px; margin-bottom:40px;">
 
+<img src="images/ProfilePic.png" alt="Profile photo" style="width:140px; border-radius:50%;"/>
 
+<div>
+  <h1 style="margin-bottom:0;">Ellie Hedderman</h1>
+  <p style="margin-top:5px; font-size:1.2em;">
+    Cyber Risk Data Specialist<br/>
+    Data Science Portfolio
+  </p>
+</div>
 
-# Data Science Portfolio
+</div>
+
+## Data Science Portfolio
 
 ## About me
 I am a Cyber Risk Data Specialist with an academic background in mathematics. I hold an MSci in Mathematics with Theoretical Physics and am currently undertaking a BSc in Data Science alongside full‑time work to strengthen my data science and applied analytics skills.
