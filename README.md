@@ -7,10 +7,15 @@ My work often focuses on analysing and interpreting complex security and operati
 
 ### Skills
 Data analysis, ETL pipelines, and feature engineering
+
 Exploratory analysis and clustering (K‑means)
+
 Data visualisation and dashboard design
+
 Python (intermediate)
+
 Excel (Power Query, PivotTables, analytical models)
+
 Cyber risk and security data analysis
 
 ### Education
