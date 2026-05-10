@@ -3,25 +3,58 @@ layout: default
 title: Flight Path Analysis
 ---
 
-# Flight Path Analysis – Airspace Restrictions
+# Flight Path Analysis – Impact of Airspace Restrictions
 
-This project analyses historic commercial flight data to understand how airspace restrictions introduced in February 2022 affected Europe–Asia flight routes.
+This project analyses historic commercial flight data to examine how airspace restrictions introduced in February 2022 affected Europe–Asia flight routes.
 
-## Objectives
-- Examine whether flight routes were redistributed following restrictions
-- Identify routes that collapsed or persisted
-- Assess structural changes at route level
+---
 
-## Approach
-- Built a Python-based ETL pipeline to process approximately 15 million flight records
-- Engineered route-level features to summarise activity before and after restrictions
-- Applied K-means clustering to identify common route patterns
-- Created geographic visualisations to support interpretation
+## Problem
+
+In February 2022, widespread airspace restrictions were introduced across Europe and Russia following the invasion of Ukraine. These restrictions had the potential to significantly disrupt international flight networks.
+
+The aim of this project was to assess whether commercial flight routes between Europe and Asia were structurally affected following the introduction of these restrictions.
+
+---
+
+## Data
+
+The analysis uses publicly available flight movement data published by the Open Performance Data Initiative (OPDI), alongside reference airport data used to map locations geographically.
+
+The dataset covers approximately 15 million flight records between January 2022 and March 2023.
+
+---
+
+## Method
+
+- Built a Python-based ETL pipeline to load and process monthly flight data
+- Scoped data to Europe–Asia routes using ICAO location indicators
+- Engineered route-level features summarising activity before and after restrictions
+- Applied K-means clustering to identify patterns in route behaviour
+- Visualised routes geographically to support interpretation
+
+---
+
+## Example outputs
+
+*(Add one or two visuals here — see next step)*
+
+---
 
 ## Tools
+
 - Python (pandas, NumPy, scikit-learn)
 - matplotlib
 - GeoPandas
 
+---
+
 ## Outcome
-The analysis identified clear structural changes in Europe–Asia flight routes following the restrictions, including complete loss of some routes and persistence of others due to geopolitical and airspace considerations.
+
+The analysis identified clear structural changes to Europe–Asia flight routes following the restrictions. Several routes collapsed entirely, particularly those involving restricted airspace, while others persisted due to alternative routing or geopolitical factors.
+
+---
+
+## Notes
+
+This project was completed for academic purposes using publicly available data.
