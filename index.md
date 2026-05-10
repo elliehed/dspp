@@ -17,7 +17,7 @@
 ## About me
 I am a Cyber Risk Data Specialist with an academic background in mathematics. I hold an MSci in Mathematics with Theoretical Physics and am currently undertaking a BSc in Data Science alongside full‑time work to strengthen my data science and applied analytics skills.
 
-My work often focuses on analysing and interpreting complex security and operational datasets, developing repeatable data pipelines, and producing clear, decision‑focused visualisations. This portfolio showcases selected academic and professional projects completed as part of the Data Science Professional Practice module.
+My work often focuses on analysing and interpreting complex security and operational datasets, developing repeatable data pipelines, and producing clear and thought-provoking visualisations. This portfolio showcases professional projects using public datasets, completed as part of the Data Science Professional Practice module.
 
 ## Skills
 - Data analysis, ETL pipelines, and feature engineering  
