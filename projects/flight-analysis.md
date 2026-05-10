@@ -3,9 +3,28 @@ layout: default
 title: Flight Path Analysis
 ---
 
-# Flight Path Analysis – Impact of Airspace Restrictions
+<div style="display:flex; gap:24px; align-items:flex-start; margin-bottom:40px;">
 
-This project analyses historic commercial flight data to examine how airspace restrictions introduced in February 2022 affected Europe–Asia flight routes.
+  <img src="../images/flight-header.jpg"
+       alt="Commercial flight route visualisation"
+       style="width:260px; border-radius:6px;" />
+
+  <div>
+
+    <h1 style="margin-top:0;">
+      Flight Path Analysis – Impact of Airspace Restrictions
+    </h1>
+
+    <p>
+      This project analyses historic commercial flight data to examine how
+      airspace restrictions introduced in February 2022 affected
+      Europe–Asia flight routes.
+    </p>
+
+  </div>
+
+</div>
+
 
 ---
 
