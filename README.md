@@ -15,5 +15,7 @@ Cyber risk and security data analysis
 
 ### Education
 Kings College London - MSci Mathematics and Theoretical Physics
+
 BPP University - Currently undertaking BSs Data Science
+
 CISSP (planning to take exam in 2026...)
