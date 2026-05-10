@@ -13,7 +13,7 @@ My work often focuses on analysing and interpreting complex security and operati
 - Exploratory analysis and clustering (K-means)  
 - Data visualisation and dashboard design  
 - Python and Excel  
-- Cyber risk and security data ana
+- Cyber risk and security data analysis
 
 
 
